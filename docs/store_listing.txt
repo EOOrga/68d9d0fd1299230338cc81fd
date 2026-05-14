@@ -1,0 +1,13 @@
+App name
+BAYLE PHILIPPE LEOPOLD
+
+Short description
+Manage patrol logs, equipment checkout, procurement requests, and supply orders locally.
+
+Full description
+BAYLE PHILIPPE LEOPOLD gives daily operations teams a focused mobile workspace for guard patrol notes, equipment custody, purchase requests, and supply ordering.
+
+Create records in a few taps, assign an owner, set status and priority, add quantities and notes, then review active work by operational area. Records are stored locally on the device with no account, cloud sync, analytics, advertising identifiers, or network service.
+
+Category
+Business
