@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "applications": {
+    "com.taziggg100.baylephilippeleopold": {
+      "title": "BAYLE PHILIPPE LEOPOLD",
+      "short_description": "Manage patrol logs, equipment checkout, procurement requests, and supply...",
+      "full_description": "BAYLE PHILIPPE LEOPOLD gives daily operations teams a focused mobile workspace for guard patrol notes, equipment custody, purchase requests, and supply ordering.\n\nCreate records in a few taps, assign an owner, set status and priority, add quantities and notes, then review active work by operational area. Records are stored locally on the device with no account, cloud sync, analytics, advertising identifiers, or network service.",
+      "source_screenshots": [
+        "docs/screens/1.png",
+        "docs/screens/2.png",
+        "docs/screens/3.png"
+      ],
+      "generated_from": "existing repository listing metadata and README",
+      "generated_at": "2026-10-02T21:28:46.045785+00:00"
+    }
+  }
+}
