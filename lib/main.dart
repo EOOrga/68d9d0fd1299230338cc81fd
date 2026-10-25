@@ -28,9 +28,9 @@ class BayleOpsApp extends StatelessWidget {
 }
 
 ThemeData _buildTheme() {
-  const primary = Color(0xFF32B8F2);
-  const secondary = Color(0xFF16C7A6);
-  const tertiary = Color(0xFFF4B727);
+  const primary = Color(0xFF276CF5);
+  const secondary = Color(0xFF27F5B0);
+  const tertiary = Color(0xFF27F549);
   const purple = Color(0xFF8E63F2);
   const surface = Color(0xFF101B2D);
   const background = Color(0xFF071321);
@@ -355,7 +355,7 @@ class _OperationsShellState extends State<OperationsShell> {
     final pages = <Widget>[
       DashboardScreen(records: _records, onOpenRecord: _openDetail),
       KindRecordsScreen(
-        title: 'Guard patrol logs',
+        title: 'BAYLE PHILIPPE LEOPOLD',
         subtitle: 'Checkpoints, incidents, and route coverage',
         emptyText: 'Create the first patrol log to begin a route history.',
         kinds: const [RecordKind.patrolLog],
