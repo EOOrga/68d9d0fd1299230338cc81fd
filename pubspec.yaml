@@ -1,4 +1,4 @@
-name: bayle_ops
+name: baylephilippeleopold
 description: "Local operations workspace for guard patrols, equipment, procurement, and supply ordering."
 publish_to: 'none'
 version: 1.0.0+1
@@ -26,6 +26,6 @@ flutter:
 flutter_launcher_icons:
   android: true
   image_path: "docs/icon.png"
-  adaptive_icon_background: "#071321"
-  adaptive_icon_foreground: "docs/icon.png"
+  adaptive_icon_background: "#27F2F5"
+  adaptive_icon_foreground: docs/icon.png
   remove_alpha_android: true
