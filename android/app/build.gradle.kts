@@ -30,7 +30,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.taziggg100.baylephilippeleopold"
+        applicationId = "com.mnchhalaed.baylephilipeleol"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
